@@ -1,0 +1,23 @@
+{
+  "name": "myexpress",
+  "version": "0.0.0",
+  "description": "A node.js web application framework similar to Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikuazusa/fork2-myexpress.git"
+  },
+  "keywords": [
+    "node.js",
+    "framework",
+    "express"
+  ],
+  "author": "Tonny Mo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikuazusa/fork2-myexpress/issues"
+  }
+}

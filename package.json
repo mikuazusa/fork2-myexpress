@@ -24,6 +24,7 @@
     "mocha": "~1.19.0",
     "coffee-script": "~1.7.1",
     "chai": "~1.9.1",
-    "supertest": "~0.12.1"
+    "supertest": "~0.12.1",
+    "minimist": "~0.1.0"
   }
 }
